@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+
+<Game>
+	<Level Level="1">
+	<Num_Of_Enemy> 10 </Num_Of_Enemy>
+	</Level>
+	<Level Level=Level++>
+	<Num_Of_Enemy> 11 </Num_Of_Enemy>
+	</Level>
+	<Level Level="1">
+	<Num_Of_Enemy> 12 </Num_Of_Enemy>
+	<Power_Up> Health </Power_Up>
+	</Level>
+	<Weapons>
+	<Guns id="GUN001">
+	<Type>	Rifle	</Type>
+	<Ammo>	32	</Ammo>
+	<Fire_Rate>	1.0	</Fire_Rate>
+	<Damage>	20	</Damage>
+	<Weight> 7.2kg </Weight>
+	</Guns>
+	<Guns id="GUN002">
+	<Type>	Sub Machine	</Type>
+	<Ammo>	60	</Ammo>
+	<Fire_Rate>	15.0	</Fire_Rate>
+	<Damage>	5	</Damage>
+	<Weight> 4.3kg </Weight>
+	</Guns>
+	<Guns id="GUN003">
+	<Type>	Gatling gun	</Type>
+	<Ammo>	280	</Ammo>
+	<Fire_Rate>	25.0	</Fire_Rate>
+	<Damage>	1	</Damage>
+	<Weight> 11.3kg </Weight>
+	</Guns>
+</Weapons>
+</Game>
