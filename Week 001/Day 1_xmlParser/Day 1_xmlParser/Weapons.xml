@@ -4,10 +4,10 @@
 	<Level Level="1">
 	<Num_Of_Enemy> 10 </Num_Of_Enemy>
 	</Level>
-	<Level Level=Level++>
+	<Level Level="2">
 	<Num_Of_Enemy> 11 </Num_Of_Enemy>
 	</Level>
-	<Level Level="1">
+	<Level Level="3">
 	<Num_Of_Enemy> 12 </Num_Of_Enemy>
 	<Power_Up> Health </Power_Up>
 	</Level>
